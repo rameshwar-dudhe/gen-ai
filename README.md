@@ -10,6 +10,8 @@ A tiny terminal chatbot powered by a local [Ollama](https://ollama.com) server.
 ## Setup
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
