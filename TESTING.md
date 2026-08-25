@@ -13,7 +13,7 @@ curl http://localhost:11434/api/tags   # sanity check — should list the model
 ## 2. Go to the project and set up the venv
 
 ```bash
-cd /home/claude/Desktop/gen-ai
+cd path/to/gen-ai
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
