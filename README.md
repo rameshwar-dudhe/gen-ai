@@ -36,3 +36,5 @@ Settings are read from `.env` (see `.env.example`), or plain env vars if no `.en
 ```bash
 python3 test_app.py
 ```
+
+For a full step-by-step walkthrough (including troubleshooting), see [TESTING.md](TESTING.md).
