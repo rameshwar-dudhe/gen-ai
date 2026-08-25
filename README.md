@@ -6,6 +6,8 @@
 
 A minimal terminal chatbot powered by a local [Ollama](https://ollama.com) server. No cloud API keys, no external dependencies beyond `requests` and `python-dotenv` — everything runs on your machine.
 
+![Demo](assets/demo.gif)
+
 ## Features
 
 - Simple REPL-style chat loop with conversation history
